@@ -1,0 +1,31 @@
+ja:
+  dictionary:
+    title: 'タイトル'
+    memo: 'メモ'
+    author: '著者'
+    picture: '画像'
+    edit: '編集'
+    show: '表示'
+    destroy: '削除'
+    books: '書籍'
+    back: '戻る'
+    new_book: '新規登録'
+    edit_book: '内容を編集'
+  activerecord:
+    models:
+      book:
+    attributes:
+      book:
+        New Book: '新規登録'
+        author: '著者'
+        title: 'タイトル'
+        memo: 'メモ'
+        picture: '画像'
+  books:
+    edit:
+      editing_book: '内容を編集'
+  helpers:
+    submit:
+      create: '登録'
+      update: '更新'
+      submit: '保存'
